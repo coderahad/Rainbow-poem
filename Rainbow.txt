@@ -6,6 +6,7 @@ Violet
 Indigo
 Blue
 Magenta
+Recycle
 Green
 Unicorn
 Yellow
@@ -13,3 +14,4 @@ Red
 This are the colours of rainbow
 And the unicorn.
 And ponies.
+And recycle
