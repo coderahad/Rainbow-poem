@@ -1,6 +1,9 @@
 Rainbow
 
+Purple
 Violet
 Indigo
 Blue
+Green
 Red
+This are the colours of rainbow
